@@ -6,8 +6,8 @@
 
 // First download the 20XX log file for the module from Moodle and save. 
 // Can download all logged entries (all) for that year or for selected components of Moodle page
-cd "G:\D\LSHTM Teaching\DL\Study Design\Student Engagement - metrics\2023"
-local raw "G:\D\LSHTM Teaching\DL\Study Design\Student Engagement - metrics\raw"
+cd "....\Student Engagement - metrics\2023"
+local raw "....\Student Engagement - metrics\raw"
 
 global section all // for all logs, or can be by moodle feature
 global year 2023
